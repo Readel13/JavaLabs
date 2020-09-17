@@ -1,5 +1,3 @@
-
-
 public class Palindrome {
 
     public static void main(String[] args) {
@@ -14,7 +12,5 @@ public class Palindrome {
             System.out.println("Palindrome");
         } else
             System.out.println("Not palindrome");
-
-
     }
 }
