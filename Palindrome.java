@@ -1,8 +1,9 @@
 
+
 public class Palindrome {
 
     public static void main(String[] args) {
-        String text = "Умру. Суму сум — у сурму";
+        String text = "А роза упала на лапу Азора.";
 
         text = text.toLowerCase().replaceAll("[^а-яa-z]", "");
 
